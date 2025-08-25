@@ -644,7 +644,7 @@ export default function CPUSchedulerVisualizer() {
       </Section>
 
       <footer className="ftr">
-        <small></small>
+        <small>All rights reserved by The Batman</small>
       </footer>
     </div>
   );
