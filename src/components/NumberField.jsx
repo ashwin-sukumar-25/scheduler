@@ -1,4 +1,3 @@
-
 const clampInt = (v, min, max) => Math.max(min, Math.min(max, Math.floor(Number(v) || 0)));
 export default function NumberField({ label, value, onChange, min = 0, max = 9999, step = 1, placeholder }) {
   return (
